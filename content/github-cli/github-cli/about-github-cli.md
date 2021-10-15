@@ -1,4 +1,6 @@
----
+---/github/getting-started-with-github/github-cli
+/github/getting-started-with-github/using-github/github-cli
+/actions/guides/managing-github-actions-with-github-cli
 title: About GitHub CLI
 intro: '{% data reusables.cli.cli-intro %}'
 versions:
